@@ -1,4 +1,4 @@
-# face_recognition_using_dlib_openfacecv
+# facial recognition system
 
 Usage:
 Recently I was working on a project on `face recognition`(recognizing faces in videos and pictures), and it's going pretty good.
