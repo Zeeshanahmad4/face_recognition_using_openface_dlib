@@ -29,7 +29,7 @@ I will be solving each problem/step one by one with proper discription.
  Code: 
  * [Code](http://dlib.net/)
  Result:Faces and there cordinates in the image.
-![](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png)
+![](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png =15x15)
 
   
  
