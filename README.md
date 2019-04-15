@@ -25,9 +25,11 @@ I will be solving each problem/step one by one with proper discription.
 
 ### Face Detection.
  Method:  Histogram of Oriented Gradients  HOG
+ 
  Requirements:
  * [dlib](http://dlib.net/)
  * scikit-image
+ 
  Code: 
  * [Code](http://dlib.net/)
  Result: 
