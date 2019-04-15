@@ -9,7 +9,7 @@ we can impliment technology in our institutes or in our workplaces and improves 
 
 i will be using my images with some of my friends for testing purpose for the whole project.
 
-## Buliding a  `facial recognition system` includes four steps   
+### Buliding a  `facial recognition system` includes four steps   
 
 1. look at a picture and find all the faces in it
 2. Focus on each face and be able to understand that even if a face is turned in a weird direction or in bad lighting, it is still the same person.
