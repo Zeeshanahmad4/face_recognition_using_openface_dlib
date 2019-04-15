@@ -27,9 +27,9 @@ I will be solving each problem/step one by one with proper discription.
  * scikit-image
  
  Code: 
- * [Code](http://dlib.net/)
+ * [Face_Detection](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/face_detection.py)
  
- Result:Faces and there cordinates in the image.
+ Result: Faces and there cordinates in the image.
  
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="360" width="500">
   
