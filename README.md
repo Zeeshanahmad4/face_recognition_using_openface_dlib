@@ -19,7 +19,7 @@ i will be using my images with some of my friends for testing purpose for the wh
 
 I will be solving each problem/step one by one with proper discription.
 
-### Face Detection.
+### Step 1: Face Detection.
  Method:  Histogram of Oriented Gradients  HOG
  
  Requirements:
@@ -32,6 +32,25 @@ I will be solving each problem/step one by one with proper discription.
  Result: Faces and there cordinates in the image.
  
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="340" width="500">
+
+### Step 2: Face landmarking and Projection
+
+ Method:  face landmark estimation.
+ 
+ Requirements:
+ * [dlib](http://dlib.net/)
+ * scikit-image
+ * cv2
+ * openface
+ 
+  Code: 
+ * [Face_Detection](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/face_detection.py)
+ 
+ Result: Faces and there cordinates in the image.
+ 
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="340" width="500">
+ 
+
   
  
  
