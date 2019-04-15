@@ -3,8 +3,7 @@
 Usage:
 Recently I was working on a project on `face recognition`(recognizing faces in videos and pictures), and it's going pretty good.
 
-There are more security issues day by day and implimenting technology in our institutes or in our workplaces is not hard. We only need minimal effort its not that expensive and Tech is changing the world we should be part of it and contribute to it.
-
+we can impliment technology in our institutes or in our workplaces and improves our secuirity, it is not that hard.We only need minimal effort its not that expensive and Tech is changing the world we should be part of it and contribute to it.
 
 #### Problems are all around us just pick one and solve it. It is really that simple.
 
@@ -29,10 +28,9 @@ I will be solving each problem/step one by one with proper discription.
  
  Code: 
  * [Code](http://dlib.net/)
- Result: 
- Input :
-  casca
-  output:
+ Result:Faces and there cordinates in the image.
+![](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png)
+
   
  
  
