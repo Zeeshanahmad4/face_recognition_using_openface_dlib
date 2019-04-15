@@ -28,10 +28,10 @@ I will be solving each problem/step one by one with proper discription.
  
  Code: 
  * [Code](http://dlib.net/)
+ 
  Result:Faces and there cordinates in the image.
  
-![]( | width=48)
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png" height="24">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png" height="50">
   
  
  
