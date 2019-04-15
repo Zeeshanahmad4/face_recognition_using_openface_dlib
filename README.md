@@ -31,7 +31,7 @@ I will be solving each problem/step one by one with proper discription.
  
  Result:Faces and there cordinates in the image.
  
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.png" height="360" width="500">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="360" width="500">
   
  
  
