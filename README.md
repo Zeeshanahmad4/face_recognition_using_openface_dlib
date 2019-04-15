@@ -10,7 +10,7 @@ There are more security issues day by day and implimenting technology in our ins
 
 i will be using my images with some of my friends for testing purpose for the whole project.
 
-## there are four Steps to bulid a complete `facial recognition system`   
+## Buliding a  `facial recognition system` includes four steps   
 
 1. look at a picture and find all the faces in it
 2. Focus on each face and be able to understand that even if a face is turned in a weird direction or in bad lighting, it is still the same person.
