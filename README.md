@@ -88,10 +88,13 @@ output :
 
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="270" width="350">
  
+ ### Real Time:
  
+ Code: 
+ * [real_time](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/realtime_facial_rec.py)
  
- 
- 
+ Result:
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="260" width="550">
 
 
 
