@@ -79,9 +79,8 @@ Result:
  
 Result:
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/1_6kMMqLt4UBCrN7HtqNHMKw.png" height="340" width="500">
-  
- 
+Input
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/asad.jpg"height="340"width="500">src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/hamza.jpg"height="340"width="500">src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/zeeshan.jpg" height="340" width="500">
   
  
  
