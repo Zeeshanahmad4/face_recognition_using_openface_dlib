@@ -94,6 +94,8 @@ output :
  * [real_time](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/realtime_facial_rec.py)
  
  Result:
+ 
+ 
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/ezgif.com-video-to-gif%20(1).gif">
 
 
