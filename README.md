@@ -81,12 +81,12 @@ Result:
 
 Input:
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="340" width="680">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="300" width="600">
 
 
 output :
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="340" width="680">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="340" width="500">
  
  
  
