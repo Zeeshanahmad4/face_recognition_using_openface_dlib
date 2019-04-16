@@ -81,7 +81,7 @@ Result:
 
 Input:
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="340" width="500">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="340" width="900">
 
 
  
