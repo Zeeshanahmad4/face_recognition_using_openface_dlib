@@ -86,7 +86,7 @@ Input:
 
 output :
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="340" width="350">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="270" width="350">
  
  
  
