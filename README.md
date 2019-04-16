@@ -50,7 +50,20 @@ I will be solving each problem/step one by one with proper discription.
  
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="340" width="500">
  
+### Step 3: Encoding our face image
 
+ Method:  Deep Convolutional Neural Network to generate 128 measurements for each face.
+ 
+ Requirements:
+ * openface
+ 
+  Code: 
+ * [Encoding](https://github.com/cmusatyalab/openface/blob/master/batch-represent/batch-represent.lua)
+ i am directly using  trained networks by OpenFace to Encoding my images becuase it has trained only one time so trained    again would be a waste of time. 
+ 
+Result:
+
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="340" width="500">
   
  
  
