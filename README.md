@@ -58,12 +58,30 @@ I will be solving each problem/step one by one with proper discription.
  * openface
  
   Code: 
- * [Encoding](https://github.com/cmusatyalab/openface/blob/master/batch-represent/batch-represent.lua)
- i am directly using  trained networks by OpenFace to Encoding my images becuase it has trained only one time so trained    again would be a waste of time. 
+ * [Openface](https://github.com/cmusatyalab/openface/blob/master/batch-represent/batch-represent.lua)
+ i am directly using  trained networks by OpenFace to Encode images, becuase it has to trained only once so trained    again would be a waste of time. 
  
 Result:
 
 <img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/1_6kMMqLt4UBCrN7HtqNHMKw.png" height="340" width="500">
+  
+ 
+  ### Step 4: Final step
+
+ Method:   linear SVM classifier.
+ 
+ Requirements:
+ * scikit learn
+ 
+  Code: 
+ * [Openface](https://github.com/cmusatyalab/openface/blob/master/batch-represent/batch-represent.lua)
+ i am directly using  trained networks by OpenFace to Encode images, becuase it has to trained only once so trained    again would be a waste of time. 
+ 
+Result:
+
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/1_6kMMqLt4UBCrN7HtqNHMKw.png" height="340" width="500">
+  
+ 
   
  
  
