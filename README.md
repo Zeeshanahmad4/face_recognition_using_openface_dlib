@@ -63,7 +63,7 @@ I will be solving each problem/step one by one with proper discription.
  
 Result:
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/image.jpg" height="340" width="500">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/1_6kMMqLt4UBCrN7HtqNHMKw.png" height="340" width="500">
   
  
  
