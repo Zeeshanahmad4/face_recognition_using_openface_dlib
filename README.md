@@ -74,19 +74,19 @@ Result:
  * scikit learn
  
   Code: 
- * [Openface](https://github.com/cmusatyalab/openface/blob/master/batch-represent/batch-represent.lua)
+ * [face_recoginition](https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/box_around_face.py)
  i am directly using  trained networks by OpenFace to Encode images, becuase it has to trained only once so trained    again would be a waste of time. 
  
 Result:
 
 Input:
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="300" width="600">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/BeFunky-collage.jpg" height="260" width="550">
 
 
 output :
 
-<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="340" width="500">
+<img src="https://github.com/Zeeshanahmad4/face_recognition_using_openface_dlib/blob/master/Resources/identify.jpg" height="340" width="350">
  
  
  
